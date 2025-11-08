@@ -1,0 +1,22 @@
+{
+  "name": "mock-ecom-cart-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "test": "node test/smoke.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7",
+    "mongoose": "^8.6.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.1",
+    "mongodb-memory-server": "^10.1.4"
+  }
+}
