@@ -1,4 +1,4 @@
-# Mock E-Com Cart (Vibe Commerce)
+# Mock E-Com Cart 
 
 Full-stack shopping cart demo for internship screening.
 
